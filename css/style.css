@@ -108,7 +108,7 @@ a.button-social-media {
 
 @media(max-width:630px) {
     h1 {
-        font-size: 22px;
+        font-size: 20px;
     }
     form {
         display: inline-block;
